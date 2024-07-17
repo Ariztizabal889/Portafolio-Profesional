@@ -127,15 +127,6 @@ aside {
     margin: 0;
 }
 
-.header__menu__link{
-    font-family: var(--fuente-montserrat);
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: var(--color-terciaria);
-    text-decoration: none;
-
-}
-
 @media (min-width: 768px) {
     .container {
         flex-direction: row;
